@@ -1,0 +1,145 @@
+str,ru_RU,en_US,ky_KG
+comfort,Удобство,Convenience,Ыңгайлуулук
+uspex,Возможности,Opportunities,Мүмкүнчүлүктөр
+onboard1,"Все решения по дому, голосования и новости не мешаются с рабочими или личными группами в ваших мессенджерах","All decisions regarding the house, voting, and news do not interfere with work or personal groups in your messengers","Үй боюнча чечимдер, добуш берүү жана жаңылыктар сиздин иш же жеке топторуңузга тоскоолдук кылбайт"
+onboard2,"Удобные голосования прямо в приложении, оповещения для администрации ТСЖ","Convenient voting directly in the app, notifications for HOA administration","Түзмөктөгү колдонмодо ыңгайлуу добуш берүү, ТСЖ администрациясы үчүн билдирүүлөр"
+onboard3,Срочные оповещения жителей в случае экстренных ситуаций,Urgent notifications for residents in case of emergencies,Кырдаалдарда тургундар үчүн шашылыш билдирүүлөр
+always_connect,Всегда на связи,Always in touch,Ар дайым байланышта
+next,Далее,Next,Кийинки
+skip,Пропустить,Skip,Өткөрүп жиберүү
+forget_password,Забыли пароль?,Forgot password?,Сыр сөздү унуттуңузбу?
+phone_number,Номер,Number,Номур
+password,Пароль,Password,Сыр сөз
+register,Зарегистрироваться,Register,Катталуу
+login,Войти,Log in,Кирүү
+password_recovery,Восстановление пароля,Password recovery,Сыр сөздү калыбына келтирүү
+enter_phone_number,"Введите номер телефона, он будет использован для входа в приложение","Enter your phone number, it will be used to log in to the app","Телефон номериңизди киргизиңиз, ал колдонмого кирүү үчүн колдонулат"
+confirmation_code,Код подтверждения,Confirmation code,Тастыктоо коду
+request_code_again_in,Получить код повторно можно будет через:,You can request the code again in:,Коду кайра алса болот:
+resend_code,Получить код повторно,Resend code,Коду кайра жөнөтүү
+repeat_password,Повторите пароль,Repeat password,Сыр сөздү кайталаңыз
+new_password,Новый пароль,New password,Жаңы сыр сөз
+create_new_password,Придумайте новый пароль для входа,Create a new password for login,Кирүү үчүн жаңы сыр сөз ойлоп табыңыз
+create_password,Создать пароль,Create password,Сыр сөз түзүү
+create,Создать,Create,Түзүү
+passwords_do_not_match,Пароли не совпадают,Passwords do not match,Сыр сөздөр дал келбейт
+registration,Регистрация,Registration,Каттоо
+contact_details,"Внесите ваши контактные данные и точный адрес, чтобы пользоваться приложением",Enter your contact details and exact address to use the app,Колдонмону колдонуу үчүн байланыш маалыматтарыңызды жана так дарегиңизди киргизиңиз
+full_name,ФИО,Full name,Аты-жөнү
+address,Адрес,Address,Дарек
+tszh,ТСЖ,HOA,КТК
+email,Почта,Email,Электрондук почта
+enter_confirmation_code,"Введите код подтверждения, который мы отправили на вашу электронную почту",Enter the confirmation code we sent to your email,Электрондук почтаңызга жөнөткөн тастыктоо кодун киргизиңиз
+news_feed,Лента новостей,News feed,Жаңылыктар тасмасы
+search_news_polls,Поиск по новостям и голосованиям,Search news and votes,Жаңылыктар жана добуш берүү боюнча издөө
+source_link,Ссылка на источник,Source link,Булакка шилтеме
+feed,Лента,Feed,Тасма
+chat_list,Список чатов,Chat list,Чаттар тизмеси
+my_home,Мой дом,My home,Менин үйүм
+profile,Профиль,Profile,Профиль
+news,Новость,News,Жаңылык
+poll,Голосование,Votes,Добуш берүү
+your_vote_is_accepted,Ваш голос принят!,Your vote is accepted!,Сиздин добуш кабыл алынды!
+thanks_vote_recorded,"Спасибо, Ваш голос учтен.","Thank you, your vote is recorded.","Рахмат, сиздин добуш жазылды."
+you_voted_for,Вы проголосовали “За”,You voted as “Agree”,"Сиз ""Тарап"" деп добуш бердиңиз."
+agree,За,Agree,Тарап
+against,Против,Against,Каршы
+cancel_vote,Отменить голос,Cancel vote,Добушту жокко чыгаруу
+what_do_you_want_to_add,Что вы хотите добавить?,What do you want to add?,Эмнени кошкуңуз келет?
+cancel,Отмена,Cancel,Жокко чыгаруу
+enter_announcement_text,Введите текст Вашего объявления и отправьте запрос на публикацию,Enter the text of your announcement and submit a request for publication,"Жарнама текстин киргизип, жарыялоо үчүн сурам жөнөтүңүз"
+add_news,Добавить новость,Add news,Жаңылык кошуу
+add_poll,Добавить голосование,Add vote,Добуш берүүнү кошуу
+enter_poll_text,Введите текст Вашего голосования и отправьте запрос на публикацию,Enter the text of your vote and submit a request for publication,"Добуш берүү текстин киргизип, жарыялоо үчүн сурам жөнөтүңүз"
+headline,Заголовк,Headline,Тема
+announcement_text,Текст объявления,Announcement text,Жарнама тексти
+your_announcement_sent,Ваше объявление отправлено,Your announcement has been sent,Сиздин жарыя жөнөтүлдү
+thanks_announcement_sent,"Спасибо, Ваше объявление отправлено и будет рассмотрено на публикацию!","Thank you, your announcement has been sent and will be reviewed for publication!","Рахмат, сиздин жарыя жөнөтүлдү жана жарыялоо үчүн каралат!"
+notifications,Уведомления,Notifications,Билдирүүлөр
+nothing_found,По данному запросу ничего не найдено,Nothing found for this request,Бул сурам боюнча эч нерсе табылган жок
+chat_list,Список чатов,Chat list,Чаттар тизмеси
+all_chats,Все чаты,All chats,Бардык чаттар
+discussions,Обсуждения,Discussions,Талкуулар
+polls,Голосования,Votes,Добуш берүүлөр
+archive,Архив,Archive,Архив
+enter_text,Введите текст,Enter text,Текстти киргизиңиз
+edit,Изменить,Edit,Өзгөртүү
+create_poll,Создать голосование,Create poll,Добуш берүүнү түзүү
+participants,Участники:,Participants:,Катышуучулар:
+information,Информация,Information,Маалымат
+house_admin,Домком,House admin,Үй администратору
+my_requests,Мои заявки,My requests,Менин арыздарым
+my_cameras,Мои камеры,My cameras,Менин камераларым
+my_receipts,Мои квитанции,My receipts,Менин квитанцияларым
+useful_info,Полезная информация,Useful information,Пайдалуу маалымат
+entrance_camera,Камера подъезда,Entrance camera,Кире бериш камерасы
+no_receipts,У вас нет квитанций,You have no receipts,Сизде квитанция жок
+view_receipt,Смотреть квитанцию,View receipt,Квитанцияны көрүү
+my_data,Мои данные,My data,Менин маалыматтарым
+password,Пароль,Password,Сыр сөз
+language_change,Смена языка,Change language,Тилди алмаштыруу
+enable_push_notifications,Включить пуш уведомления,Enable push notifications,Push билдирүүлөрдү күйгүзүү
+add_resident,Добваить жильца,Add resident,Тургун кошуу
+add_resident_info,Внесите контактные данные жильца и точный адрес,Enter resident's contact details and exact address,Тургундун байланыш маалыматын жана так дарегин киргизиңиз
+resident_added,Вы добавили жильца,You added a resident,Сиз тургунду коштуңуз
+resident_request_sent,Мы отправили вашу заявку на рассмотрение ДомКому!,We sent your request for review to the House Admin!,Биз сиздин арызыңызды үй администраторго жөнөттүк!
+close,Закрыть,Close,Жабуу
+no_news_yet,Пока нет новостей,No news yet,Азырынча жаңылыктар жок
+no_polls_yet,Пока нет голосований,No votes yet,Азырынча добуш берүүлөр жок
+no_feed_yet,Пока ещё нет лента,No feed yet,Азырынча тасма жок
+thanks_voted_against,"Спасибо, Ваш голос учтен. Вы проголосовали 'Против'","Thank you, your vote is recorded. You voted 'Against'","Рахмат, сиздин добуш жазылды. Сиз ""Каршы"" деп добуш бердиңиз."
+poll_results,Результаты голосования:,Poll results:,Добуш берүү жыйынтыгы:
+go_to_discussions,Перейти к обсуждениям,Go to discussions,Талкууларга өтүү
+no_chats_yet,Пока нет чатов,No chats yet,Азырынча чаттар жок
+to_add_chats,"Чтобы добавить чаты, должны быть добавлены голоса или новости для открытого обсуждения","To add chats, votes or news for open discussion must be added","Чаттарды кошуу үчүн, добуштар же жаңылыктар ачык талкуу үчүн кошулушу керек"
+developer,Застройщик,Developer,Куруучу
+developer_website,Сайт застройщика,Developer website,Куруучунун веб-сайты
+no_house_admin_info,Вы еще не ввели информацию о домкоме,You haven't entered house admin info yet,Сиз үй администраторунун маалыматын киргизе элексиз
+useful_info_unavailable,Полезная информация для вас недоступна,Useful information is unavailable for you,Пайдалуу маалымат сиз үчүн жеткиликтүү эмес
+no_requests_yet,У вас еще нет заявок,You have no requests yet,Сизде азырынча арыздар жок
+no_camera_zones,У вас нет зон камеры,You have no camera zones,Сизде камера зоналары жок
+more_details,Подробнее,More details,Кененирээк
+current_tsj_switched,Current tsj switched,Current TSJ switched,Учурдагы ТСЖ өзгөртүлдү
+no_notifications_yet,У вас пока нет уведомлений,You have no notifications yet,Азырынча сизде билдирүүлөр жок
+mark_all_as_read,Отметить все как прочитанное,Mark all as read,Бардыгын окулган деп белгилөө
+attention,Внимание,Attention,Көңүл буруңуз
+confirm_mark_all_as_read,Вы действительно хотите сделать все как прочитанное,Are you sure you want to mark all as read?,Бардыгын окулган деп белгилөөнү каалайсызбы?
+owner,Собственник,Owner,Ээси
+residing,Проживает,Residing,Жашаган
+tenant,Квартирант,Tenant,Квартирант
+resident_added,Вы добавили жильца,You added a resident,Сиз тургунду коштуңуз
+resident_request_sent,Мы отправили вашу заявку на рассмотрение ДомКому,We sent your request for review to the House Admin,Биз сиздин арызыңызды үй администраторго жөнөттүк
+add_resident,Добaвить жильца,Add resident,Тургун кошуу
+enter_resident_info,Внесите контактные данные жильца и \nточный адрес,Enter resident's contact details and exact address,Тургундун байланыш маалыматын жана так дарегин киргизиңиз
+add,Добавить,Add,Кошуу
+update_language,Обновить язык,Update language,Тилди жаңыртуу
+data_changed,Вы изменили данные,You changed the data,Сиз маалыматтарды өзгөрттүңүз
+data_update_sent,Мы отправили ваши изменения на рассмотрение ДомКому,We sent your changes for review to the House Admin,Биз сиздин өзгөртүүлөрдү үй администраторго жөнөттүк
+push_enabled,Теперь вы можете получать push-уведомления,Now you can receive push notifications,Эми сиз push билдирүүлөрдү ала аласыз
+push_disabled,Теперь вы нe можете получать push-уведомления,Now you cannot receive push notifications,Эми сиз push билдирүүлөрдү ала албайсыз
+password_changed,Ваш пароль успешно изменен,Your password has been successfully changed,Сиздин сыр сөз ийгиликтүү өзгөртүлдү
+enter_old_password,Введите старый пароль,Enter old password,Эски сыр сөздү киргизиңиз
+enter_password,Введите пароль,Enter password,Сыр сөздү киргизиңиз
+repeat_new_password,Повторите новый пароль,Repeat new password,Жаңы сыр сөздү кайталаңыз
+required_field,Обязательное поле,Required field,Милдеттүү талаа
+passwords_must_match,Пароли должны совпадать,Passwords must match,Сыр сөздөр дал келиши керек
+phone_number_change,Изменение номера телефона,Phone number change,Телефон номерин өзгөртүү
+settings,Настройки,Settings,Орнотуулар
+poll_started,Начато голосование,Poll started,Добуш берүү башталды
+poll_ends_on,Голосование продлится до,Poll will last until,Добуш берүү ушул күнгө чейин уланат
+go_to_poll,Перейти к голосованию,Go to poll,Добуш берүүгө өтүү
+account_in_review,Ваш аккаунт в обработке,Your account is in review,Сиздин аккаунт кароодо
+wait_for_house_admin,"Пожалуйста, подождите, пока домком не одобрит вашу заявку",Please wait until the house admin approves your request,Үй администратор сиздин арызыңызды бекиткенге чейин күтүңүз
+okay,Хорошо,Okay,Макул
+enter_email,Введите почту,Enter email,Почтаңызды киргизиңиз
+apartment_number,Номер квартиры,Apartment number,Батир номери
+select_house,Выберите дом,Select house,Үй тандаңыз
+create_password,Придумайте пароль,Create a password,Сыр сөз ойлоп табыңыз
+phone_registration,Регистрация номера телефона,Phone number registration,Телефон номери каттоо
+enter_old_phone_number,"Введите номер телефона, по которому у вас раньше была активная учетная запись.",Enter the phone number associated with your previous active account.,Мурунку активдүү аккаунтуңуз байланышкан телефон номерин киргизиңиз.
+confirm,Подтвердить,Confirm,Тастыктоо
+title,Заголовок,Title,Тема
+poll_duration,Срок голосования,Poll duration,Добуш берүү мөөнөтү
+source_link_optional,Ссылка на источник (необязательно),Source link (optional),Булакка шилтеме (милдеттүү эмес)
+privacy_policy,Политика конфиденциальности,Privacy Policy,Купуялуулук саясаты
+terms_of_usage,Условия использования,Terms of Usage,Колдонуу шарттары
