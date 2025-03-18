@@ -5,7 +5,7 @@ import 'package:sample_sheet_location/common/lang/language.dart';
 import 'common/gen/strings.dart';
 
 class TranslationHomePage extends StatefulWidget {
-  const TranslationHomePage({Key? key}) : super(key: key);
+  const TranslationHomePage({super.key});
 
   @override
   _TranslationHomePageState createState() => _TranslationHomePageState();
@@ -13,7 +13,6 @@ class TranslationHomePage extends StatefulWidget {
 
 class _TranslationHomePageState extends State<TranslationHomePage> with SingleTickerProviderStateMixin {
   late AnimationController _animationController;
-  late Animation<double> _cardAnimation;
   int index=0;
   @override
   void initState() {
@@ -22,10 +21,6 @@ class _TranslationHomePageState extends State<TranslationHomePage> with SingleTi
     _animationController = AnimationController(
       vsync: this,
       duration: const Duration(milliseconds: 800),
-    );
-
-    _cardAnimation = Tween<double>(begin: 0.0, end: 1.0).animate(
-      CurvedAnimation(parent: _animationController, curve: Curves.easeOutBack),
     );
 
     _animationController.forward();
