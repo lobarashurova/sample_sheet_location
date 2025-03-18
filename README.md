@@ -45,11 +45,7 @@ Read more about this approach in my article: [Disadvantages of Using JSON Files 
 Contributions are welcome! Feel free to fork this repository and submit a pull request with improvements.
 
 ## License
-This project is lice
-
-https://github.com/user-attachments/assets/42da0bc1-3b99-46ae-9453-c6b11c25e170
-
-used under the MIT License.
+This project is licence used under the MIT License.
 
 ---
 ### Author
@@ -57,3 +53,4 @@ Developed by [Lobar Ashurova](https://github.com/yourusername). Follow me for mo
 
 ## Demo
 Watch the video below to see how the project works:
+https://github.com/user-attachments/assets/42da0bc1-3b99-46ae-9453-c6b11c25e170
