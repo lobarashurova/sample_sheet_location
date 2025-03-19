@@ -49,7 +49,7 @@ This project is licence used under the MIT License.
 
 ---
 ### Author
-Developed by [Lobar Ashurova](https://github.com/yourusername). Follow me for more Flutter content!
+Developed by [Lobar Ashurova](https://github.com/lobarashurova). Follow me for more Flutter content!
 
 ## Demo
 Watch the video below to see how the project works:
